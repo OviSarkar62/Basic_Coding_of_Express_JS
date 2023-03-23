@@ -1,4 +1,4 @@
-// Middleware
+// Static Middleware
 const env = require("dotenv").config();
 const express = require("express");
 const app = express();
@@ -21,9 +21,10 @@ app.get("/about", (req,res)=>{
     console.log("I am about at " + req.currentTime) 
     res.send(`<h1 align="center">About route</h1>`);
 })*/
+app.use(express.static("public"));
 
 app.get("/", (req,res)=>{
-    res.sendFile(__dirname + "index.html");
+    res.sendFile(__dirname + "/index.html");
 })
 
 app.listen(PORT,()=>{
