@@ -12,3 +12,9 @@ In this repository there are eight lessons for basic coding of Express JS.
 ### Lesson5: 
 
 ### Lesson6: 
+
+### Lesson7: 
+
+### Lesson8: 
+
+### Practice1: Area Calculator Project 
