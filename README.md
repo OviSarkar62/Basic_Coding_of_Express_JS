@@ -13,7 +13,7 @@ In this repository there are eight lessons for basic coding of Express JS.
 
 ### Lesson6: REST API Without Database
 
-### Lesson7: 
+### Lesson7: Uploading Files to Server Without Database
 
 ### Lesson8: 
 
