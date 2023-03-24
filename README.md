@@ -11,7 +11,7 @@ In this repository there are eight lessons for basic coding of Express JS.
 
 ### Lesson5: MVC (Model, View, Controller) Architecture
 
-### Lesson6: 
+### Lesson6: REST API Without Database
 
 ### Lesson7: 
 
