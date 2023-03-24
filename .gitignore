@@ -1,2 +1,4 @@
-Command_Lines
+Command_Lines.txt
 node_modules/
+package.json
+package-lock.json
