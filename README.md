@@ -1,5 +1,5 @@
 # Basic Coding of Express JS
-In this repository there are nine lessons and one practise project for basic coding of Express JS.
+Basic coding of Express JS including HTTP methods, HTTP requests, Environment Variable, Middleware, Uploading files with and without database & REST API.
 
 ### Lesson1: HTTP Methods & Routing
 
@@ -17,6 +17,6 @@ In this repository there are nine lessons and one practise project for basic cod
 
 ### Lesson8:  Uploading Files to Server With Database
 
-### Lesson9: Built-in & Custom Schema
+### Lesson9: Morgan Middleware & Chalk
 
 ### Practice1: Area Calculator Project 
